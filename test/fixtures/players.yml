@@ -2,14 +2,20 @@
 
 one:
   round: 1
-  player_name: MyString
+  p1_name: MyString
+  p2_name: MyString
+  p1_bet: 1
+  p2_bet: 1
   result: MyString
   money: 1
   winner: MyString
 
 two:
   round: 1
-  player_name: MyString
+  p1_name: MyString
+  p2_name: MyString
+  p1_bet: 1
+  p2_bet: 1
   result: MyString
   money: 1
   winner: MyString
